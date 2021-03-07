@@ -1,6 +1,6 @@
 # pix2pix-pytorch
 origianl paper: Image-to-Image Translation with Conditional Adversarial Networks (https://arxiv.org/abs/1611.07004).  
-![](https://github.com/Tonyhuiii/pix2pix-pytorch/blob/main/1.png).
+![](https://github.com/Tonyhuiii/pix2pix-pytorch/blob/master/1.png).
 ## Environment
 ● Ubuntu 18.04  
 ● NVIDIA TITIAN RTX  
