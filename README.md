@@ -32,5 +32,8 @@ origianl paper: Image-to-Image Translation with Conditional Adversarial Networks
 `output/<dataset_name>/fake_B`
 
 ## Acknowledgments 
-Code is based on Pytorch implementation of pix2pix
-(https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+Code is based on Pytorch implementation of pix2pix  
+(https://github.com/aitorzip/PyTorch-CycleGAN)  
+(https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)  
+(https://github.com/NVIDIA/pix2pixHD)  
+
